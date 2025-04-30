@@ -1,0 +1,1 @@
+En este repositorio se encuentra el documento correspondiente a la primera evaluación parcial de la materia de robótica (semestre 2025-2) generado a partir de la plantilla de examen proporcionada por el Ing. Erik Peña Medina (profesor de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México) exportado en jupyther noteboook.
